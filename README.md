@@ -1,4 +1,5 @@
-<img width="1141" height="675" alt="Screenshot 2026-04-23 155913" src="https://github.com/user-attachments/assets/4181cbe4-ea8c-4514-b2c2-d9f0ba858635" />
+<img width="1148" height="669" alt="image" src="https://github.com/user-attachments/assets/012432a3-0b0c-46bf-a840-48d9e2e653ba" />
+<img width="852" height="771" alt="image" src="https://github.com/user-attachments/assets/b8a16dab-4d6d-4483-bc72-e66ef071da6a" />
 # car-market-analysis-excel-dashboard
 End-to-end data cleaning, analysis, and dashboard project using Excel
 
