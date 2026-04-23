@@ -1,5 +1,11 @@
 <img width="1148" height="669" alt="image" src="https://github.com/user-attachments/assets/012432a3-0b0c-46bf-a840-48d9e2e653ba" />
 <img width="852" height="771" alt="image" src="https://github.com/user-attachments/assets/b8a16dab-4d6d-4483-bc72-e66ef071da6a" />
+
+## 🔥 Project Highlights
+- End-to-end data cleaning
+- Business-driven analysis
+- Interactive dashboard
+
 # car-market-analysis-excel-dashboard
 End-to-end data cleaning, analysis, and dashboard project using Excel
 
